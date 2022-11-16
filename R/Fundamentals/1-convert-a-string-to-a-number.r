@@ -3,10 +3,10 @@
 def string_to_number(s):
     return int(s)
 
+# Test
+
 import codewars_test as test
 from solution import string_to_number
-
-# Test
 
 @test.describe("string_to_number")
 def basic_tests():
