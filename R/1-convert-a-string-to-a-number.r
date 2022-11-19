@@ -5,7 +5,7 @@ string_to_number <- function(x){
   return(x)
 }
 
-# Testing
+# Test
 
 test_that('Basic tests', {
   expect_equal(string_to_number("1234"), 1234)
