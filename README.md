@@ -4,7 +4,7 @@
 
 This repository contains my solutions to Codewars challenges for R and Python. The sole purpose of this repository is to showcase my solutions as part of the portfolio.
 
-> <p style = "color:red"><strong>Note:</strong> Please avoid using my solutions here as your own submissions on Codewars</p>
+> <p style = "color:red"><strong>Note:</strong> Please DO NOT use my solutions here as your own submissions on Codewars</p>
 
 ## Difficulty
 
