@@ -1,9 +1,11 @@
 # Find the smallest integer in the array
+# Difficulty: 8 kyu
 
 def find_smallest_int(arr):
     return min(arr)
 
-# Test
+
+# Tests
 
 import codewars_test as test
 
