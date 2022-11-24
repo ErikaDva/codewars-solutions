@@ -8,8 +8,9 @@ def century(year):
 # Solution 2
 def century(year):
     return (year + 99) // 100
-    
-# Test
+
+
+# Tests
 import codewars_test as test
 from solution import century
 
