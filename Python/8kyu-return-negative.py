@@ -5,8 +5,7 @@ def make_negative( number ):
     return -abs(number)
 
 
-# Test
-
+# Tests
 import codewars_test as test
 from solution import make_negative
 
