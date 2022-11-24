@@ -1,5 +1,5 @@
 # Fake Binary
-# 8 kyu
+# Difficulty: 8 kyu
 
 # Solution 1
 def fake_bin(x):
@@ -23,7 +23,7 @@ def fake_bin(x):
     return ''.join('0' if c < '5' else '1' for c in x)
 
 
-# Test
+# Tests
 
 import codewars_test as test
 from solution import fake_bin
