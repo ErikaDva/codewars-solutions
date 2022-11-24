@@ -5,7 +5,7 @@ def invert(lst):
     return [-i for i in lst]
 
 
-# Test
+# Tests
 
 import codewars_test as test
 from solution import invert
