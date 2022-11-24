@@ -4,7 +4,8 @@
 def opposite(number):
   return -number
   
-# Test
+ 
+# Tests
 
 import codewars_test as test
 from solution import opposite
