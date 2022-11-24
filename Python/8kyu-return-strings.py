@@ -14,7 +14,8 @@ def greet(name):
 def greet(name):
     return f'Hello, {name} how are you doing today?'
 
-# Test
+
+# Tests
 import codewars_test as test
 from solution import greet
 
