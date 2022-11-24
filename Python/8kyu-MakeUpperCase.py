@@ -5,7 +5,7 @@ def make_upper_case(s):
     return s.upper()
 
 
-# Test
+# Tests
 
 import codewars_test as test
 from solution import make_upper_case
