@@ -1,9 +1,11 @@
 # Convert a String to a Number!
+# Difficulty: 8 kyu
 
 def string_to_number(s):
     return int(s)
 
-# Test
+
+# Tests
 
 import codewars_test as test
 from solution import string_to_number
