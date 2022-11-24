@@ -9,7 +9,8 @@ def remove_char(s):
 def remove_char(s):
     return s[1:len(s)-1]
 
-# Test
+
+# Tests
 
 import codewars_test as test
 from solution import remove_char
@@ -24,4 +25,3 @@ def basic_tests():
         test.assert_equals(remove_char('place'), 'lac')
         test.assert_equals(remove_char('ok'), '')
         test.assert_equals(remove_char('ooopsss'), 'oopss')
-    
