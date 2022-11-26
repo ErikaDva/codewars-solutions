@@ -6,18 +6,18 @@ This repository contains my solutions to Codewars challenges for R and Python. T
 
 > <p style = "color:red"><strong>Note:</strong> Please DO NOT use my solutions here as your own submissions on Codewars</p>
 
-## Difficulty
+## Completion Summary
 
-From easiest to hardest:
-
-- 8 kyu (in progress)
-- 7 kyu
-- 6 kyu
-- 5 kyu
-- 4 kyu
-- 3 kyu
-- 2 kyu
-- 1 kyu
+| Kata  | Level      | ✔️R       | ✔️Python  | ✔️Shell   | ✔️SQL     | ✔️Julia   |
+| ----- | ---------- | --------- | --------- | --------- | --------- | --------- |
+| 8 Kyu | Beginner   | 25        | 25        | 1         | 1         | 1         |
+| 7 Kyu | Beginner   | 2         | 2         | --------- | --------- | --------- |
+| 6 Kyu | Novice     | --------- | --------- | --------- | --------- | --------- |
+| 5 Kyu | Novice     | --------- | --------- | --------- | --------- | --------- |
+| 4 Kyu | Competent  | --------- | --------- | --------- | --------- | --------- |
+| 3 Kyu | Competent  | --------- | --------- | --------- | --------- | --------- |
+| 2 Kyu | Proficient | --------- | --------- | --------- | --------- | --------- |
+| 1 Kyu | Proficient | --------- | --------- | --------- | --------- | --------- |
 
 # Resources
 
