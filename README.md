@@ -8,7 +8,7 @@ This repository contains my solutions to Codewars challenges mainly for R and Py
 
 ## Completion Summary
 
-| Kata  | Level      | ✔️R       | ✔️Python  | ✔️Shell   | ✔️SQL     | ✔️Julia   |
+| Rank  | Level      | ✔️R       | ✔️Python  | ✔️Shell   | ✔️SQL     | ✔️Julia   |
 | ----- | ---------- | --------- | --------- | --------- | --------- | --------- |
 | 8 Kyu | Beginner   | 25        | 25        | 1         | 1         | 1         |
 | 7 Kyu | Beginner   | 2         | 2         | --------- | --------- | --------- |
