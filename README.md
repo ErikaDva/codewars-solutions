@@ -19,6 +19,12 @@ This repository contains my solutions to Codewars challenges mainly for R and Py
 | 2 Kyu | Proficient | --------- | --------- | --------- | --------- | --------- |
 | 1 Kyu | Proficient | --------- | --------- | --------- | --------- | --------- |
 
+Total Kata: 57
+
+Total Unique Kata: 26
+
+Languages trained: 5
+
 # Resources
 
 https://www.codewars.com/
