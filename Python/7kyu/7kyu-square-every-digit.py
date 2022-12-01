@@ -17,6 +17,7 @@ def square_digits(num):
         result += str(int(x) ** 2)
     return int(result)
 
+
 # Tests
 import codewars_test as test
 from solution import square_digits
