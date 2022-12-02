@@ -1,4 +1,4 @@
-![rank](https://www.codewars.com/users/ErikaDva/badges/large)
+<a href = "https://www.codewars.com/users/ErikaDva">![rank](https://www.codewars.com/users/ErikaDva/badges/large) </a>
 
 # Solutions to Codewars challenges
 
