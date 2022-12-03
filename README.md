@@ -10,7 +10,7 @@ This repository contains my solutions to Codewars challenges mainly for R and Py
 
 | Rank  | Level      | ✔️R       | ✔️Python  | ✔️Shell   | ✔️SQL     | ✔️Julia   |
 | ----- | ---------- | --------- | --------- | --------- | --------- | --------- |
-| 8 Kyu | Beginner   | 25/100        | 25/333        | 1/29         | 1/45         | 1/136         |
+| 8 Kyu | Beginner   | 38/100        | 38/333        | 1/29         | 1/45         | 1/136         |
 | 7 Kyu | Beginner   | 3/104         | 3/1573         | --------- | --------- | --------- |
 | 6 Kyu | Novice     | --------- | --------- | --------- | --------- | --------- |
 | 5 Kyu | Novice     | --------- | --------- | --------- | --------- | --------- |
