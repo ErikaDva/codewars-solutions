@@ -25,6 +25,46 @@ Total Unique Kata: 26
 
 Languages trained: 5
 
+## Repository Structure
+
+```ascii
+├── Julia/
+│   ├── 8kyu/
+│   │   ├── 8kyu-remove-string-spaces.jl
+│   │   ├── ...
+│   └── ...
+│
+├── Python/
+│   ├── 7kyu/
+│   │   ├── 7kyu-highest-and-lowest.py
+│   │   └── ...
+│   ├── 8kyu/
+│   │   ├── 8kyu-DNA-to-RNA-conversion.py
+│   │   └── ...
+│   └── ...
+│
+├── R/
+│   ├── 7kyu/
+│   │   ├── 7kyu-highest-and-lowest.r
+│   │   └── ...
+│   ├── 8kyu/
+│   │   ├── 8kyu-DNA-to-RNA-conversion.r
+│   │   └── ...
+│   └── ...
+│
+├── SQL/
+│   ├── 8kyu/
+│   │   ├── 8kyu-remove-string-spaces.sql
+│   │   ├── ...
+│   └── ...
+│
+├── Shell/
+│   ├── 8kyu/
+│   │   ├── 8kyu-remove-string-spaces.sh
+│   │   ├── ...
+│   └── ...
+```
+
 # Resources
 
 https://www.codewars.com/
