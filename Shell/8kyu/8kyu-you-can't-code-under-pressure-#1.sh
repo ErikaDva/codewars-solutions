@@ -1,5 +1,6 @@
 # You Can't Code Under Pressure #1
 # Language: Shell
+# Version: bash
 # Difficulty: 8 kyu
 
 # $1 will be an integer. Double it and print it.
