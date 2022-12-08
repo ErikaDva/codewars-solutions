@@ -1,5 +1,6 @@
 # Remove String Spaces
 # Language: Shell
+# Version: bash
 # Difficulty: 8 kyu
 
 # Solution 1
