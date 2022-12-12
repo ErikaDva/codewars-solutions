@@ -10,7 +10,7 @@ This repository contains my solutions to Codewars challenges mainly for R and Py
 
 | Rank  | Level      | ✔️R       | ✔️Python  | ✔️Shell   | ✔️SQL     | ✔️Julia   |
 | ----- | ---------- | --------- | --------- | --------- | --------- | --------- |
-| 8 Kyu | Beginner   | 56/100        | 56/333        | 4/29         | 2/45         | 5/136         |
+| 8 Kyu | Beginner   | 64/100        | 64/333        | 5/29         | 4/45         | 7/136         |
 | 7 Kyu | Beginner   | 3/104         | 3/1573         | --------- | --------- | --------- |
 | 6 Kyu | Novice     | --------- | --------- | --------- | --------- | --------- |
 | 5 Kyu | Novice     | --------- | --------- | --------- | --------- | --------- |
@@ -19,9 +19,9 @@ This repository contains my solutions to Codewars challenges mainly for R and Py
 | 2 Kyu | Proficient | --------- | --------- | --------- | --------- | --------- |
 | 1 Kyu | Proficient | --------- | --------- | --------- | --------- | --------- |
 
-Total Kata: 129
+Total Kata: 150
 
-Total Unique Kata: 59
+Total Unique Kata: 67
 
 Languages trained: 5
 
