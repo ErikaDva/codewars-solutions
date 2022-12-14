@@ -14,9 +14,8 @@ def fake_bin(x):
   return binary
 
 # Alternative solution 2 (concise, similar to chartr in R)
-import string
 def fake_bin(x):
-    return x.translate(string.maketrans('0123456789', '0000011111'))
+    return x.translate(str.maketrans('0123456789', '0000011111'))
 
 # Alternative solution 3 (one line, concise & clever)
 def fake_bin(x):
