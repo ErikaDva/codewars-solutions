@@ -1,0 +1,44 @@
+#################### R ####################
+
+# 
+# Language: R
+# Version 3.4.1
+# Difficulty: 8 kyu
+
+# Tests
+
+################## PYTHON #################
+
+# 
+# Language: Python
+# Version: 3.10
+# Difficulty: 8 kyu
+
+# Tests
+
+################## JULIA ##################
+
+# 
+# Language: Julia
+# Version: 1.5
+# Difficulty: 8 kyu
+
+# Tests
+
+################## SHELL ##################
+
+# 
+# Language: Shell
+# Version: bash
+# Difficulty: 8 kyu
+
+# Tests
+
+################### SQL ###################
+
+-- 
+-- Language: SQL
+-- Version: PostgreSQL 9.6, SQLite 3.2.8 & PostgreSQL 13.0
+-- Difficulty: 8 kyu
+
+-- Tests
