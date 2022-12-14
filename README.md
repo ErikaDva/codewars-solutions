@@ -2,7 +2,7 @@
 
 # Solutions to Codewars challenges
 
-This repository contains my solutions to Codewars challenges mainly for R and Python. The sole purpose of this repository is to showcase my solutions as part of the portfolio. Sample tests are included in the scripts to display the expected behaviour of the function.
+This repository contains my solutions to Codewars challenges for R, Python, Shell, SQL and Julia. The sole purpose of this repository is to showcase my solutions as part of the portfolio. Sample tests are included in the scripts to display the expected behaviour of the function or particular cod.
 
 > <p style = "color:red"><strong>Note:</strong> Please DO NOT use my solutions here as your own submissions on Codewars</p>
 
