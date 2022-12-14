@@ -8,6 +8,8 @@ This repository contains my solutions to Codewars challenges mainly for R and Py
 
 ## Completion Summary
 
+*(This repository is being regularly updated and will eventually cover all the ranks)*
+
 | Rank  | Level      | ✔️R       | ✔️Python  | ✔️Shell   | ✔️SQL     | ✔️Julia   |
 | ----- | ---------- | --------- | --------- | --------- | --------- | --------- |
 | 8 Kyu | Beginner   | 64/100        | 64/333        | 5/29         | 4/45         | 7/136         |
