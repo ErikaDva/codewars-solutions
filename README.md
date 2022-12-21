@@ -13,7 +13,7 @@ This repository contains my solutions to Codewars challenges for R, Python, Shel
 | Rank  | Level      | ✔️R       | ✔️Python  | ✔️Shell   | ✔️SQL     | ✔️Julia   |
 | ----- | ---------- | --------- | --------- | --------- | --------- | --------- |
 | 8 Kyu | Beginner   | 75/100        | 74/333        | 7/29         | 6/45         | 12/136         |
-| 7 Kyu | Beginner   | 3/104         | 3/1573         | --------- | --------- | --------- |
+| 7 Kyu | Beginner   | 4/104         | 4/1573         | --------- | --------- | --------- |
 | 6 Kyu | Novice     | --------- | --------- | --------- | --------- | --------- |
 | 5 Kyu | Novice     | --------- | --------- | --------- | --------- | --------- |
 | 4 Kyu | Competent  | --------- | --------- | --------- | --------- | --------- |
@@ -21,9 +21,9 @@ This repository contains my solutions to Codewars challenges for R, Python, Shel
 | 2 Kyu | Proficient | --------- | --------- | --------- | --------- | --------- |
 | 1 Kyu | Proficient | --------- | --------- | --------- | --------- | --------- |
 
-Total Kata: 180
+Total Kata: 182
 
-Total Unique Kata: 78
+Total Unique Kata: 79
 
 Languages trained: 5
 
