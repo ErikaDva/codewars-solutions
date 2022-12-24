@@ -3,8 +3,14 @@
 # Version: 1.5
 # Difficulty: 8 kyu
 
+# Solution 1
 function correcttail(body, tail)
   tail == last(body)
+end
+
+# Solution 2
+function correcttail(body, tail)
+  tail == body[end]
 end
 
 
