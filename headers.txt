@@ -2,7 +2,7 @@
 
 # 
 # Language: R
-# Version 3.4.1
+# Version: 3.4.1
 # Difficulty: 8 kyu
 
 # Tests
