@@ -6,6 +6,9 @@
 def str_count(strng, letter):
     return 0 if len(strng) == 0 or len(letter) == 0 else strng.count(letter)
 
+def str_count(strng, letter):
+    return strng.count(letter)
+
 
 # Tests
 @test.describe('Should return the correct character count')
