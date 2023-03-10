@@ -12,7 +12,7 @@ _(This repository is being regularly updated and will eventually cover all the r
 
 | Rank  | Level      | ✔️R       | ✔️Python  | ✔️Shell   | ✔️SQL     | ✔️Julia   |
 | ----- | ---------- | --------- | --------- | --------- | --------- | --------- |
-| 8 Kyu | Beginner   | 89/100    | 102/333   | 9/29      | 12/45     | 34/136    |
+| 8 Kyu | Beginner   | 89/100    | 113/333   | 9/29      | 12/45     | 34/136    |
 | 7 Kyu | Beginner   | 5/104     | 5/1573    | --------- | --------- | --------- |
 | 6 Kyu | Novice     | --------- | --------- | --------- | --------- | --------- |
 | 5 Kyu | Novice     | --------- | --------- | --------- | --------- | --------- |
@@ -21,9 +21,9 @@ _(This repository is being regularly updated and will eventually cover all the r
 | 2 Kyu | Proficient | --------- | --------- | --------- | --------- | --------- |
 | 1 Kyu | Proficient | --------- | --------- | --------- | --------- | --------- |
 
-Total Kata: 256
+Total Kata: 266
 
-Total Unique Kata: 107
+Total Unique Kata: 118
 
 Languages trained: 5
 
