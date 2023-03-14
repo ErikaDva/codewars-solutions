@@ -1,5 +1,7 @@
 <a href = "https://www.codewars.com/users/ErikaDva">![rank](https://www.codewars.com/users/ErikaDva/badges/large) </a>
 
+_Please leave a ⭐, if you found this resource useful_
+
 # Solutions to Codewars challenges
 
 This repository contains my solutions to Codewars challenges for R, Python, Shell, SQL and Julia. The sole purpose of this repository is to showcase my solutions as part of the portfolio. Sample tests are included in the scripts to display the expected behaviour of the function or particular code snippet.
