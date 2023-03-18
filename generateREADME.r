@@ -61,11 +61,12 @@ for (language in katas_languages){
   for (level in katas_levels) {
     kata_titles <- df %>% dplyr::filter(Level == level) %>% dplyr::pull(Kata)
     
-    if (length(kata_titles) != 0){
-    heading <- paste("# List of codewars", level, language, "available solutions")
-    readme_text <- paste(language, level, "codewars solution", kata_titles)
-    writeLines(text = c(heading, readme_text), sep = "\n", paste0(language, "/", level, "/", "README.md"))
-    }
+      if (length(kata_titles) != 0){
+      heading <- paste("# List of codewars", level, language, "available solutions")
+      text <- paste(language, level, "codewars solution", kata_titles)
+      readme_text <- c(heading, text)
+      writeLines(text = readme_text, sep = "\n\n", paste0(language, "/", level, "/", "README.md"))
+      }
     }
   }
 
