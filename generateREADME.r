@@ -12,7 +12,7 @@
 
 # LOADING LIBRARY ---------------------------------------------------------
 
-library(dplyr)  # for %>% 
+library(dplyr)
 
 # GETTING KATA ------------------------------------------------------------
 
@@ -29,11 +29,11 @@ for (language in katas_languages){
     katas <- list.files(file.path(language, level))
     
     df <- data.frame(raw_kata = katas) %>% 
-      separate(raw_kata, c("Level", "Kata"), paste0(level, "-")) %>% 
+      tidyr::separate(raw_kata, c("Level", "Kata"), paste0(level, "-")) %>% 
       dplyr::mutate(Kata = stringr::str_to_title(Kata))
     
     # Check that dataframe is not empty
-    if (nrow(df) > 1){ 
+    if (nrow(df) > 0){ 
     # Add columns
     df$Level <- level
     df$Language <- language
@@ -54,11 +54,19 @@ all_katas_df <- purrr::map_dfr(all_katas, bind_rows)
 
 # GENERATE .MD FILES ------------------------------------------------------
 
-
-
-# EXPORT .MD FILES --------------------------------------------------------
-
-
-
+for (language in katas_languages){
+  
+  df <- all_katas_df %>% dplyr::filter(Language == language)
+  
+  for (level in katas_levels) {
+    kata_titles <- df %>% dplyr::filter(Level == level) %>% dplyr::pull(Kata)
+    
+    if (length(kata_titles) != 0){
+    heading <- paste("# List of codewars", level, language, "available solutions")
+    readme_text <- paste(language, level, "codewars solution", kata_titles)
+    writeLines(text = c(heading, readme_text), sep = "\n", paste0(language, "/", level, "/", "README.md"))
+    }
+    }
+  }
 
 # --------------------------------- END --------------------------------- #
