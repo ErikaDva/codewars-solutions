@@ -30,7 +30,8 @@ for (language in katas_languages){
     
     df <- data.frame(raw_kata = katas) %>% 
       tidyr::separate(raw_kata, c("Level", "Kata"), paste0(level, "-")) %>% 
-      dplyr::mutate(Kata = stringr::str_to_title(Kata))
+      dplyr::mutate(Kata = stringr::str_to_title(Kata)) %>% 
+      tidyr::drop_na()
     
     # Check that dataframe is not empty
     if (nrow(df) > 0){ 
