@@ -10,5 +10,3 @@ Python 7kyu codewars solution Square Every Digit
 
 Python 7kyu codewars solution Vowel Count
 
-Python 7kyu codewars solution NA
-

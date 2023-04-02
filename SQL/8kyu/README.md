@@ -24,5 +24,3 @@ SQL 8kyu codewars solution String Repeat
 
 SQL 8kyu codewars solution Third Angle Of A Triangle
 
-SQL 8kyu codewars solution NA
-

@@ -4,6 +4,8 @@ Julia 8kyu codewars solution Abbreviate A Two Word Name
 
 Julia 8kyu codewars solution Area Or Perimeter
 
+Julia 8kyu codewars solution Array Plus Array
+
 Julia 8kyu codewars solution Basic Mathematical Operations
 
 Julia 8kyu codewars solution Basic Variable Assignment
@@ -11,6 +13,8 @@ Julia 8kyu codewars solution Basic Variable Assignment
 Julia 8kyu codewars solution Beginner Lost Without A Map
 
 Julia 8kyu codewars solution Beginner Reduce But Grow
+
+Julia 8kyu codewars solution Beginner Series #1 School Paperwork
 
 Julia 8kyu codewars solution Beginner Series #2 Clock
 
@@ -37,6 +41,8 @@ Julia 8kyu codewars solution Even Or Odd
 Julia 8kyu codewars solution Expression Matter
 
 Julia 8kyu codewars solution Find The Smallest Integer In The Array
+
+Julia 8kyu codewars solution Function 1 Hello World
 
 Julia 8kyu codewars solution Get Nth Even Number
 
@@ -89,6 +95,4 @@ Julia 8kyu codewars solution Third Angle Of A Triangle
 Julia 8kyu codewars solution Twice As Old
 
 Julia 8kyu codewars solution You Can't Code Under Pressure #1
-
-Julia 8kyu codewars solution NA
 

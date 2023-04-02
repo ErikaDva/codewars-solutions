@@ -18,5 +18,3 @@ Shell 8kyu codewars solution Twice As Old
 
 Shell 8kyu codewars solution You Can't Code Under Pressure #1
 
-Shell 8kyu codewars solution NA
-

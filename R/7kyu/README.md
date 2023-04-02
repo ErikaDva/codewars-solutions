@@ -10,5 +10,3 @@ R 7kyu codewars solution Square Every Digit
 
 R 7kyu codewars solution Vowel Count
 
-R 7kyu codewars solution NA
-

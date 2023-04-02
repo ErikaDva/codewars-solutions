@@ -226,5 +226,3 @@ Python 8kyu codewars solution You Can't Code Under Pressure #1
 
 Python 8kyu codewars solution You Only Need One Beginner
 
-Python 8kyu codewars solution NA
-

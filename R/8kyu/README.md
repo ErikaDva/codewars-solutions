@@ -178,5 +178,3 @@ R 8kyu codewars solution You Can't Code Under Pressure #1
 
 R 8kyu codewars solution You Only Need One Beginner
 
-R 8kyu codewars solution NA
-
